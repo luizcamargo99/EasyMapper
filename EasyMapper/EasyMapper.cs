@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace ApplicationService.Extensions
+namespace EasyMapper
 {
     public static class EasyMapper
     {
